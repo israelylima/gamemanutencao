@@ -12,7 +12,7 @@ a:hover{
   text-decoration: none;
 }
 .castelo{
-	background-image: url('../img/background.png'); 
+	background-image: url('../IMG/background.png'); 
   background-size: cover; 
   background-repeat: no-repeat;
   
@@ -40,7 +40,7 @@ tr {
   padding: 30px;
 }
 
-.containerautores img{
+.containerautores IMG{
   width: 150px;
   border-radius: 10px;
 }
@@ -70,11 +70,11 @@ table{
 
 }
 .sobre {
-  background-image: url('../img/papel.jpg'); 
+  background-image: url('../IMG/papel.jpg'); 
   background-size: cover; 
 }
 .becodiagonal{
-  background-image: url('../img/becodiagonal.png'); 
+  background-image: url('../IMG/becodiagonal.png'); 
   background-size: cover; 
 }
 
@@ -160,7 +160,7 @@ button {
 	transform: translateY(-5px);
   }
 
-  .img-thumbnail{
+  .IMG-thumbnail{
 	border: none;
 	background-color: transparent;
   }
@@ -217,7 +217,7 @@ button {
     cursor: pointer;
   }
 
-.imgflutuante{
+.IMGflutuante{
   animation: flutuacao 3s ease-in-out infinite;
 
 }
